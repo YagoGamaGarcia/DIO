@@ -1,0 +1,384 @@
+DIO bank
+Bancos digitais são instituições financeiras que executam suas atividades de forma 100% online. Ou seja, praticamente tudo oq ue o cliente precisa é feito por um celular via aplicativo ou no computador via browser.
+
+SISTEMA DESKTOP
+Sistemas desktop são sistemas autônomos que podem ser instalados no computador. Esta instalação é realizada por um arquivo executável. Como exemplo, temos o Microsoft Word, Microsoft Excel, Anti-vírus e jogos.
+
+SISTEMA WEB
+Sistemas baseados em tecnologia web, podendo ser utilizados remotamente através de qualquer navegados de internet, sem a necessidade de instalção e atulizalção local.
+
+E AS APLICAÇÕES MOVEIS?
+Uma aplicação movel ou aplicativo mobile é um software desenvolvido para ser instalado em smatphones e/ou tablets. É baixado de uma loja on-line, como  Google Play ou App Store, direto para o seu dispositivo portatil.
+
+UX DESIGN (USER EXPERIENCE)
+O design da experiencia do usuário (ou UX DESIGN) é o processo que visa melhorar a satisfação do usuáro com um produto ou serviço, melhorando a usabilidade, a acessibilidade e até mesmo a satisfação proporcionada na interação
+
+comportamento UX
+Pesquisa
+Prototipos
+Personas
+Objetivos 
+
+UI DESIGN (USER INTERFACE)
+O design de interface do usuário é o profissional responsável em criar o que o usuário irá ver e utilizar o produto. Este profissional entende padrões visuais que podem ajudar o usuário na experiencia de utilização do software.
+* Profissional focado em cores, tipografia, microinterações e estilos*
+UI design, ou designer de interface do usuário, promove a criação e o desenvolvimento da interface explorada pelo usuário em um produto ou serviço.
+
+UX 			vs 	UI
+Pesquisa		|	Design
+Protitipos		|	Tipografia
+Personas		|	Cores
+Objetivos		|	Layouts
+
+
+FRONT END
+MODELO CLIENTE-SEREVIDOR
+O modelo client-servidor é uma estrutura que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviçoes, designados como clientes.
+
+DESENVOLVEDOR FRONT END
+O desenvolvedor front end é que programa a parte visual de um site ou aplicativo, ou seja, aquilo que conseguimos interagir. Quem trabalha com front end é responsável por desenvolver por meio de codigo uma interaface grafica, normalmente coms tecnologias de base da web( HTML, CSS e JavaScript).
+
+ONDE CRIO MEUS CODIGOS?
+Em um IDE!
+Um ambiente de desenvolvimento integrado (IDE) software para criar aplicações que combina ferramentas comuns de desenvolvimento em uma unica interface grafica do usuário (GUI)
+
+FRAMEWORK
+MAS O QUE SÃO OS FRAMEWORKS?
+Framework é, de forma básica, um facilitador.
+Ele traz diversas soluções já pré-definidas, que descompilam o trabalho dos profissionais no desenvolvimento de aplicativos e outros projetos digitais.
+Afinal, a atuação de um programador pode ter muito de criatividade, mas traz aspectos mecânicos, de repetição de tarefas, que seriam maçantes sem a  possibilidade de automação
+Exemplos: Angular, Laravel e Vue
+
+DESENVOLVEDOR BACKEND
+BackEnd, como o proprio nome sugere, vem da ideia do que tem por trás de uma aplicação. Pde ficar meio abstrato em um primeiro momento, mas pense que para conseguir usar o Facebook no dia a dia, os dados do seu perfil, amigos e publicações precisam estar salvos em algum lugar, sendo esse lugar um banco de dados e processados a partir de lá.
+
+O back end trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo.
+Exemplo: Java, PHP e C#
+
+O QUE É UMA API?
+Acrônimo de Application Programmimg Interface (interface de programação de aplicativos), um intermediario de software que permite que dois aplicativos conversem entre si. Cada vez que você usa um app como facebook, envia uma mensagem instatânea ou verifica a previsão do tempo em seu telefone, você esta usando uma API.
+
+DESENVOLVEDOR FULL STACK
+Um desenvolvedor full stack é alguem que trabalha como o backende do aplicativo, bem como o front end. Desenviolvedores full stat precisam ter alguma habilidades em uam ampla variedade de programação
+
+QUALITY ASSURANCE (QA)
+QA pode ser definida como um conjunto de ações que as empresas realizam com o objetivo de entregar aos consumidores um produto ou serviço com alto nivel de qualidade. No desenvolvimento de software, aplicar os metodos de QA geram confiança e segurança aos clientes, indicando que seus produtos terão a qualidade esperada na etapa de implantação.
+O profissional de QUALITY ASSURANCE deve ter o conhecimento sobre as atividades do projeto, além de ter um perfil analitico. Ele verifica se os padrões de qualidade estão sendo atendidos e se os requisitos minimos esperados no produtos serão entregues.
+
+ATIVIDADES E PROFISSIONAIS EM NUVEM PRIVADA
+1 - Segurança da Tecnologia da Informação (Lógica e Física)
+2 - Mão de obra especializada (software e hardware)
+3 - Infraestrutura local
+
+CLOUD
+Nuvem publica
+Os sistemas em nuvem são sistemas de armazenamento de dados disponibilizados via internet, em vez de servidores fisicos tradicionais. Hoje, muitas organizações estão migrando o armazenamento de dados de servidores fisicos para sitemas baseados em nuvem.
+VANTAGENS DE MIGRAR PARA A NUVEM PUBLICA
+1 - Preço (Pague somente o que usar)
+2 - Facilidade de contratação, configuração e Infraestrutura
+3 - Escalabilidade
+4 - Performance
+PROFISSIONAL DE CLOUD COMPUTING
+O profissional de cloud computing é responsável pela Infraestrutura de nuvem oferecida aos clientes. Mais do que desenhar sistemas ouu ambientes de TI, ele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser integradas e, no fim, cuida do que foi construido
+
+DESENVOLVIMENTO MOBILE: 
+ANDROID
+JAVA e/ou KOTLIN
+ANDROID STUDIO
+
+
+DESENVOLVIMENTO MOBILE: IOS
+SWIFT
+XCODE
+
+DESENVOLVIMENTO HIBRIDO (WEB)
+IONIC (SITE)
+FLUTTER (SITE)
+REACT NATION (SITE)
+
+-----------------------------------------------------------------------
+
+TRABALHANDO EM EQUIPES AGEIS
+3 VALORES DO MANIFESTO AGIL
+MANIFESTO AGIL 
+O documento foi criado em fevereiro de 2001, quando 17 profissionais, que já praticavam metodos ageis como XP, DSDM, Scrum, FDD etc, se reuniram.
+Embora esses 17 desenvolvedores utilizassem abordagens e metodos diferentes, ele compartilhavam dos mesmo fundamentos.
+
+VALORES DO MANIFESTO AGIL
+1. Individuos e interações, mais que processos e ferramentas
+2. Software em funcionamento, mais que documentação abrangente
+3. Colaboração com o cliente, mais que negociação de contratos
+4. Responder a mudanças, mais que seguir planos
+
+OS DOZE PRINCIPIOS DO MANIFESTO AGIL
+1. Nossa maior prioridade e satisfazer o cliente atraves da entrega continua e adiantada do software com valor agregado
+2. Aceitar mudanças de requisitos, mesmo no fim do desenvolvimento. Processos ageis se adequam a mudanças, para que o cliente possa tirar vantagens competitivas.
+3. Entregar frequentemente o software funcionando, de poucas semanas ou meses, com preferencia a menor escala de tempo.
+4. Pessoas de negocios e desenvolvedores devem trabalhar diariamente em conjunto por todo o projeto.
+5. Construir projetis em torno de individuos motivados, dando a eles o ambiente e o suporte necessário e confiando neles para fazer o trabalho.
+6. O metodo mais eficiente e eficaz de transmitir informações entre uma equipe de desenvolvimento é por meio de conversa face a face
+7. Software funcionando e uma medida primaria de progresso
+8. Os processos ageis promovem desenvolvimento sustentavel. Os patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante indefinidamente.
+9. Continua atenção a excelencia tecnica e bom design aumenta a agilidade.
+10. Simplicidade: a arte de maximizar a quantidade de trabalho não realizado e essencial
+11. As melhores atquiteturas, requisitos e designs emergem de times auto-organizaveis
+12. Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina seu comportamento de acordo.
+
+CARACTERISTICAS DE UM TIME AGIL
+* Alinhado com o cliente e stakeholders
+* Auto-organizado e responsável
+* Multidisciplinar
+* Entrega valor continuamente
+* Está sempre aprendendo
+* Melhoria continua
+* Possui metricas e metas claras
+* Unido
+
+IMPORTANCIA DA AGILIDADE NO MUNDO DE Tecnologia
+Inovação
+Volatility (volatil)
+Uncertainty (incerto)
+Complexity (complexo)
+Ambiguity (ambiguo)
+
+GERENCIAMENTO DE PROJETOS E GESTÃO AGIL
+Qual é a diferença entre:
+Processo: É recorrente e continuo
+          É replicavel
+          Geralmente é repetitvo e realizado regularmente
+Processo de solicitação de compra em uma empresa:
+    Você solicita ao responsavel do setor de compras a compra de um        notebook, ele faz orçamentos, o gestor/diretor aprova a compra e       ele realiza o pedido
+
+Projeto: Um esforço temporário para atingir um objetivo
+         O resoltado é exclusivo
+         Tem inicio e fim bem definidos
+Projeto de desenvolvimento de um novo modelo de fones de ouvido de uma marca:
+        Esse projeto iniciara com o objetivo de criar um modelo de fone de ouvido e passará pelas fases do projeto até a entrega do produto, o novo fone.
+
+AGIL x TRADICIONAL
+
+Modelo tradicional cascata (WATERFALL)
+Analise> Projeto(Design) > Implementação > Teste > Entrega/Manutenção
+* Planejamento inicial
+    *Escopo
+    *Custo
+    *Cronograma
+* Valor entregue no final
+
+MODELO AGIL COM SCRUM
+Iniciar > 1º Sprint(Planejar, IMplementar, Revisão e Retrospectiva) > 2º Sprint > 3º Sprint > 4º Sprint > 5º Sprint > Release
+* Planejamento por Sprints
+* Desenvolvimento iterativo e incremental
+* Valor entregue continuamente
+* Feedback
+
+
+O QUE É GESTÃO AGIL?
+Uma forma de gestão que seja...
+    * Flexivel e que se adapte ás mudanças
+    * Colaborativa e que gere transparencia
+    * Voltada ao aprendizado
+    * Entrega continua de valor
+
+FERRAMENTAS AGEIS
+    * FRAMEWORK SCRUM
+    * EXTREME PROGRAMMING (XP)
+    * KANBAN
+    * OKR
+
+O QUE É SCRUM?
+"Scrum é um Framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos."
+SCRUM GUIDE (Nov. 2020)
+AS BASES DO SCRUM
+    * Empirismo: tomar decisão om base no foco na observação (cliclo PDCA)
+    * Lean Thinking: Prezar a melhoria continua e foco em reduzir disperdicios
+    
+PILARES DO SCRUM
+    * TRASPARENCIA: A transparencia permite que todos os angulos de qualquer processo Scrum sejam observador por qualquer pessoa. Isto promove um fluxo de informação facil e transparente em toda a organização e cirar uma cultura de trabalho aberta
+    * INSPEÇÃO: A inspeção é a arte de pensar, no sentido de aplicar uma visão critica sobre o que está acontecendo. É detenctar variações ou problemas potencialmente indesejaveis.
+        * Olhando e medindo o progresso do times
+        * Feedback dis clientes e stakeholders
+        * Indpeção e aprovação das entregas
+    *  ADAPTAÇÃO: A adaptação acontece quando o Time Scrum aprende através da transparencia e da inspeção e, em seguida, adaptam o processo ao fazerem melhorias no trabalho que esta sendo realizado, evitando, também, novos desvios.
+
+O FRAMEWORK OU METODOLOGIA AGIL?
+    * O Framework Scrum é propositalmente incompleto, apenas definindo as partes necessárias para impelmentar a teoria Scrum
+    * Em vez de fornecer ás pessoas instruções detalhadas, as regras do guia do Scrum orietam seus relacionamentos e interações.
+SCRUM GUIDE (Nov. 2020)
+
+Scrum Framework
+    *Product Backlog>  Sprint (Planning> Backlog > Producto Owner(Po), Scrum Master(SM), Developer (1 Scrum Team) > Increment > Sprint Review > Retrospective > Planning)
+
+O QUE É EXTREME PROGRAMMING (XP)
+Extreme Programming (XP) é um metodo agil criado no final da decada de 90 para desenvolvimento de software.
+É uma metodologia que tem como objetivo criar sistemas com alta qualidade, com base em uma interação proxima com os clientes, testagem constante e ciclos de desenvolvimentos curtos.
+    * OBJETIVO PRINCIPAL: Fazer ciclos de entregas rápidos, continuos e incrementais, para atingir os resultados esperados pelo cliente.
+        * > PLANEJA > FAZ > TESTA/MENSURA > MELHORA/INCREMENTA <<<
+    * O QUE TEM NO XP?
+        * Ciclos
+        * "Cerimonias" (Momentos, reuniões)
+        * Testes
+        * Programação em pares
+        * Aproximação com o cliente
+        * Flexibilidade
+
+KANBAN
+O QUE É?
+É um meotodo agil para definir, gerenciar e melhorar serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos fisicos de software
+Desenvolvido pela Toyota na decada de 40
+Problema: gestão de estoque
+(Seta para cima) ESTOQUE = Menos produto em circulação/ No mercado (Seta para baixo)
+Com o intuito de equilibrar a sua produção para evitar essas duas situações, a Toyota (fabricante de automoveis) desenvolveu o metodo kanban na decara de 194-, que foi englobado como uma parte do Sistema Toyota de Produção.
+O seu objetivo era promover o contro do estoque de materias para que seus produtos não excedessem e nem faltassem, trazendo equilibrio para o seu estoque e linha de produção.
+Principio LEAN
+Na atualidade, o quadro Kanban ultrapassou os limites da industruia e passou a ser utilizado em diferentes areas, como:
+    * Equipes de Markrting
+    * Prestação de serviços
+    * Desenvolvimento de software
+Funcionando como uma ferramenta de gestão de tarefas.
+O  QUADRO KANBAN
+TO DO > DOING > DONE
+
+O QUE É OKR?
+Objectives
+Key
+Results
+
+O OKR é um metodo de gestão agil que foi criado pelo ex-CEO da Intel Andrew Grove e tem como obetivo simplificar a forma de encarar os chamos os principais objetivos estrategicos de uma empresa.
+Pode ter certeza de que o metodo funciona, já que é usado no Google desde de 1999.
+
+Os objetivos (Objectives) do OKR são descrições qualitativas que apontam a direção que deverá ser seguida pela empresa.
+    * Claro
+    * Inspirador
+    * Desafiador
+    * Alinhado com a missão do negocio
+Em alguns casos, os objetivos também podem trazer numeros (Ex: Aumentar lucro em 10%), mas sempre direcionado a um proposito mais amplo.
+    * Criar uma experiencia inesquecivel para o cliente em todos os pontos de contato;
+    * Crescer as vendas na regiao sul do pais, dominando a regiao;
+    * Tonar-se referencia nacional e autoridade absoluta na area de Educação em tecnologia;
+
+Key Results
+Os resultados chave, tambem chamados de KRs, são as metas que determinam o atingimento do OBJETIVO na metodologia OKR.
+    * Baseados em indicadores-chave de desempenho (KPIs)
+    * Quantitativass
+    * SMART: Especificas, Mensuraveis, Atingiveis, Relevantes e Temporais.
+
+FERRAMENTAS PARA GESTÃO AGIL
+    * Trello
+    * Notion
+    * Miro
+    * Monday
+    * EasyRetro
+    * Jira
+    * Clickup
+    * Pipefy
+    * Asana
+
+----------------------------------------------------------------------
+INTRODUÇÃO À PROGRAMAÇÃO E PENSAMENTO COMPUTACIONAL
+PENSAMENTO COMPUTACIONAL
+Objetivo geral
+Apresentar os conceitos que caracterizam o pensamento computacional, permitindo que o Dev entenda o que significa pensar computacinalmente
+OVERVIEW
+PENSAMENTO COMPUTACIONAL?
+Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritimos que podem ser implementados no computador
+(Aho, 2011; Lee, 2016)
+    * Pensamento computacional?
+        * Sistematico e eficiente
+            * Formulação e resolução de problemas
+        * Sejam capazes de de reoslver
+            * Humanos e maquinas
+NÃO E UMA DISCIPLICA ACADEMICA MAS É UMA HABILIDADE GENERALISTA.
+Podemos usar a Matematica, Leitura e Escrita
+
+BASEADO EM 4 PILARES
+DIVIDIR UM PROBLEMA COMPLEXO EM SUBPROBLEMAS
+    * DECOMPOSIÇÃO:
+        * Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional. "Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais faceis e gerenciaveis.
+            * Estrategia
+                * Analise > Processo de quebrar e determinar partes menores e gerenciaveis, (Estudar, explorar, "Realizar exame detalhado", Decompor em elementos constituintes)
+                * Sintese > Combinar os elementos recompondo o problema original, (Processo de reconstrução, Fundir elementos de maneira coerente, consiste em reunir elementos distintos em um unico elemento)
+    * RECONHECIMENTO DE PADRÕES
+        * Modelo base
+        * Estrutura invariante
+        * Repetição
+            * Por que determinar padrões?
+                * Generalizar, como objetivo de obter resolução para problemas diferentes
+    * ABSTRAÇÃO
+        * Processo intelectual de isolamento de um objeto da realidade
+    * DESIGN DE ALGORITIMOS
+        * Energia
+        * Trabalhador
+        * Eficiencia
+        * Rapidez
+            * Não opera sozinho
+            * Precisa de instruções detalhadas > O computador rece, manipula e armazena dados (o que precisa ser feito? > Qual a ordem de execução? > instruções)
+            * Desenvolvimento de programa: Analise (Estudo e definição )
+                                           Algoritimos
+                                           Codificação
+1 - CS + Math: Desenvolvimento e abstração; Reconhecimento de padrões
+2 - CS + Sci/Eng + Math: Modelagem; Definição e uso de abstrações; Reconhecimento de padrões
+3 - CS + Sci/Eng: Analise de dados e design de soluções; Definoção e uso de abstrações. Teste e refinamentos de algoritimos;
+4 - Math + Sci/Eng: Desenvolvimento e abstração; Reconehcimento de padrões;
+
+Exemplos:
+Química: Aperfeiçoamento de reações quimicas pela utilização de algoritimos, atraves da identificação de quimicos
+Engenharia: Simulações de aeronaves executadas via  software em detriemento do tunel de vento
+Biologia: Modelagem e mapeamento do genoma Humanos
+Computação: Simulação de problemas de alta ordem em supercomputadores
+COMPETENCIAS
+Pensamento Sistematico
+Colaboração dentro da equipe 
+criatividade e design 
+Facilitador
+
+HABILIDADES COMPLEMENTARES
+Raciocionio lógico: Raciocionio logico é uma forma de pensamento estruturado, ou raciocinio, que permite encontrar a conclusão ou determinar a resolução de um problema
+habilidade de treinamento
+Classificação: Indução: Leis e teorias (Fenomeno observado )
+               Dedução: Previsões e explicações (Leis e teorias) Ciencias exatas
+               Abdução: Conclusão > Premissa (A grama está molhada, logo deve ser chovido)
+
+                      Inferencia
+            sintetica            analitica
+         Abdução  Indução            Dedução
+
+
+Aperfeiçoamento: Melhoramento, Aprimoramento, Refinamento, Ato de aperfeiçoar (A Partir de uma solução, deteminar pontos de melhora e refinamento)
+Ato de aperfeiçoar
+* Melhor uso de recurso
+    * Encontrar solução eficiente 
+    * Otimizar processos
+
+        * Melhorar codigos e algoritimos
+            * Simplificar linhas de codigos 
+            * Funções bem definidas
+
+
+O QUE É LOGICA?
+"Oraganização e planejamento das instruções, assertivas em um algoritimo, a fem de viabilizar a implantação de um programa"
+
+TECNICAS DE LOGICA DE PROGRAMAÇÃO
+TECNICA LINEAR
+    * Modelo tradicional
+    * Não tem vinculo
+        * Estrutura hierarquica
+        * Programação de computadores
+
+TECNICA ESTRUTURADA
+    * Organização, disposição e ordem dos elementos esseciais que compõem um corpo(concreto ou abstrato)
+
+TECNICA MODULAR
+    * Onde tem parter independetes, controlada por um conjunto de regras
+
+FUNDAMENTOS DE ALGORITIMOS
+Tipologia e Variáveis
+    Qual a função do computador? Informação (Dados, Instruções)
+
+CARACTERISTICAS DE UM PROGRAMA
+Desenvolvimento de programas: Diretrizes > Legibilidade, Redigibilidade, Confiabilidade, Custo
+
+
+portugol - https://portugol-webstudio.dgadelha.xyz/ide
+Exercicios para apromorar a programação - https://loiane.com/2015/02/sites-para-treinar-logica-de-programacao-e-resolucao-de-problemas/
+
