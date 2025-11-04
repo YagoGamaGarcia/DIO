@@ -1,0 +1,11 @@
+# Modernização de rotina bancária (EC2 + EBS + S3 + Lambda)
+
+## Visão Geral
+Este projeto moderniza a rotina legada de processamento de relatórios bancários, mantendo o motor legado (EC2) e integrando armazenamento e automação em S3 e Lambda. O objetivo é aumentar durabilidade, segurança, auditabilidade e reduzir tempo de recuperação.
+
+## Arquitetura
+Componentes principais:
+- EC2: execução da rotina legada.
+- EBS: armazenamento temporário de processamento.
+- S3: repositório de relatórios finais e histórico.
+- Lambda: pós-processamento e conversão automática.
